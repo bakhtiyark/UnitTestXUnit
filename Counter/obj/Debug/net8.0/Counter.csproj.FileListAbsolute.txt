@@ -1,0 +1,11 @@
+C:\Users\bakht\RiderProjects\UnitTestTaskxUnit\Counter\bin\Debug\net8.0\Counter.deps.json
+C:\Users\bakht\RiderProjects\UnitTestTaskxUnit\Counter\bin\Debug\net8.0\Counter.dll
+C:\Users\bakht\RiderProjects\UnitTestTaskxUnit\Counter\bin\Debug\net8.0\Counter.pdb
+C:\Users\bakht\RiderProjects\UnitTestTaskxUnit\Counter\obj\Debug\net8.0\Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bakht\RiderProjects\UnitTestTaskxUnit\Counter\obj\Debug\net8.0\Counter.AssemblyInfoInputs.cache
+C:\Users\bakht\RiderProjects\UnitTestTaskxUnit\Counter\obj\Debug\net8.0\Counter.AssemblyInfo.cs
+C:\Users\bakht\RiderProjects\UnitTestTaskxUnit\Counter\obj\Debug\net8.0\Counter.csproj.CoreCompileInputs.cache
+C:\Users\bakht\RiderProjects\UnitTestTaskxUnit\Counter\obj\Debug\net8.0\Counter.dll
+C:\Users\bakht\RiderProjects\UnitTestTaskxUnit\Counter\obj\Debug\net8.0\refint\Counter.dll
+C:\Users\bakht\RiderProjects\UnitTestTaskxUnit\Counter\obj\Debug\net8.0\Counter.pdb
+C:\Users\bakht\RiderProjects\UnitTestTaskxUnit\Counter\obj\Debug\net8.0\ref\Counter.dll
