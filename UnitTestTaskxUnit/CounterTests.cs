@@ -12,8 +12,9 @@ public class CounterClassShould
     [InlineData(null, 0)]
     public void CorrectlyCalculateUnequalCharacters(string input, int result)
     {
-        Counters sut = new Counters();
-        int actual = sut.CountUnequalConsecutiveCharacters(input);
+        var systemUnderTest = new Counters();
+        var actual = systemUnderTest.CountUnequalConsecutiveCharacters(input);
+        
         Assert.Equal(result, actual);
     }
     
@@ -26,9 +27,8 @@ public class CounterClassShould
     [InlineData(null, 0)]
     public void CorrectlyCalculateIdenticalLatinCharacters(string input, int result)
     {
-        Counters sut = new Counters();
-        
-        int actual = sut.CountEqualConsecutiveLatinCharacters(input);
+        var systemUnderTest = new Counters();
+        var actual = systemUnderTest.CountEqualConsecutiveLatinCharacters(input);
         
         Assert.Equal(result, actual);
     }
@@ -41,9 +41,8 @@ public class CounterClassShould
     [InlineData(null, 0)]
     public void CorrectlyCalculateMaximumConsecutiveNumbers(string input, int result)
     {
-        Counters sut = new Counters();
-        
-        int actual = sut.CountMaxConsecutiveNumbers(input);
+        var systemUnderTest = new Counters();
+        var actual = systemUnderTest.CountMaxConsecutiveNumbers(input);
         
         Assert.Equal(result, actual);
     }

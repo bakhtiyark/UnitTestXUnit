@@ -9,3 +9,4 @@ C:\Users\bakht\RiderProjects\UnitTestTaskxUnit\Counter\obj\Debug\net8.0\Counter.
 C:\Users\bakht\RiderProjects\UnitTestTaskxUnit\Counter\obj\Debug\net8.0\refint\Counter.dll
 C:\Users\bakht\RiderProjects\UnitTestTaskxUnit\Counter\obj\Debug\net8.0\Counter.pdb
 C:\Users\bakht\RiderProjects\UnitTestTaskxUnit\Counter\obj\Debug\net8.0\ref\Counter.dll
+C:\Users\bakht\RiderProjects\UnitTestTaskxUnit\Counter\obj\Debug\net8.0\Counter.sourcelink.json
